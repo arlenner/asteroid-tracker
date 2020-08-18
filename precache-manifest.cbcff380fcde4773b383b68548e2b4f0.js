@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "530bc4e0fb519633c7ccc9de49fa62ae",
+    "revision": "56368a0188275a644135c76c663db9ac",
     "url": "/asteroid-tracker/index.html"
   },
   {
-    "revision": "be7b0ac44cd282d25ebc",
-    "url": "/asteroid-tracker/static/css/main.07af5152.chunk.css"
+    "revision": "f5b008d2c718d987469f",
+    "url": "/asteroid-tracker/static/css/main.01613eb1.chunk.css"
   },
   {
     "revision": "779ad24f3655b70fc40b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asteroid-tracker/static/js/2.60776af0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be7b0ac44cd282d25ebc",
+    "revision": "f5b008d2c718d987469f",
     "url": "/asteroid-tracker/static/js/main.4477d666.chunk.js"
   },
   {

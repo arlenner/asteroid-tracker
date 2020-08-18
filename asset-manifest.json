@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/asteroid-tracker/static/css/main.07af5152.chunk.css",
+    "main.css": "/asteroid-tracker/static/css/main.01613eb1.chunk.css",
     "main.js": "/asteroid-tracker/static/js/main.4477d666.chunk.js",
     "main.js.map": "/asteroid-tracker/static/js/main.4477d666.chunk.js.map",
     "runtime-main.js": "/asteroid-tracker/static/js/runtime-main.85118684.js",
@@ -8,9 +8,9 @@
     "static/js/2.60776af0.chunk.js": "/asteroid-tracker/static/js/2.60776af0.chunk.js",
     "static/js/2.60776af0.chunk.js.map": "/asteroid-tracker/static/js/2.60776af0.chunk.js.map",
     "index.html": "/asteroid-tracker/index.html",
-    "precache-manifest.dca8c59afbf7823434adfa1f3592332c.js": "/asteroid-tracker/precache-manifest.dca8c59afbf7823434adfa1f3592332c.js",
+    "precache-manifest.cbcff380fcde4773b383b68548e2b4f0.js": "/asteroid-tracker/precache-manifest.cbcff380fcde4773b383b68548e2b4f0.js",
     "service-worker.js": "/asteroid-tracker/service-worker.js",
-    "static/css/main.07af5152.chunk.css.map": "/asteroid-tracker/static/css/main.07af5152.chunk.css.map",
+    "static/css/main.01613eb1.chunk.css.map": "/asteroid-tracker/static/css/main.01613eb1.chunk.css.map",
     "static/js/2.60776af0.chunk.js.LICENSE.txt": "/asteroid-tracker/static/js/2.60776af0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/asteroid-tracker/static/media/logo.5d5d9eef.svg",
     "static/media/App.css": "/asteroid-tracker/static/media/starry-sky1.fe5e7076.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.85118684.js",
     "static/js/2.60776af0.chunk.js",
-    "static/css/main.07af5152.chunk.css",
+    "static/css/main.01613eb1.chunk.css",
     "static/js/main.4477d666.chunk.js"
   ]
 }
