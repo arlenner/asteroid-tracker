@@ -1,0 +1,1 @@
+export const err = e => { throw new Error(e) }
