@@ -127,6 +127,7 @@ body {
   align-items: center;
   justify-content: center;
   background-blend-mode: color;
+  background-size: cover;
   background: url('./starry-sky1.jpg'), linear-gradient(45deg, #5cf5, #29c5);
   color: #ffffffa1;
 }
