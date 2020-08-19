@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/asteroid-tracker/static/css/main.8c5e0082.chunk.css",
-    "main.js": "/asteroid-tracker/static/js/main.3fe5efd2.chunk.js",
-    "main.js.map": "/asteroid-tracker/static/js/main.3fe5efd2.chunk.js.map",
+    "main.css": "/asteroid-tracker/static/css/main.796a5f9a.chunk.css",
+    "main.js": "/asteroid-tracker/static/js/main.7c236301.chunk.js",
+    "main.js.map": "/asteroid-tracker/static/js/main.7c236301.chunk.js.map",
     "runtime-main.js": "/asteroid-tracker/static/js/runtime-main.85118684.js",
     "runtime-main.js.map": "/asteroid-tracker/static/js/runtime-main.85118684.js.map",
     "static/js/2.60776af0.chunk.js": "/asteroid-tracker/static/js/2.60776af0.chunk.js",
     "static/js/2.60776af0.chunk.js.map": "/asteroid-tracker/static/js/2.60776af0.chunk.js.map",
     "index.html": "/asteroid-tracker/index.html",
-    "precache-manifest.4e6b89520daff5cbf78e41ef48ff4214.js": "/asteroid-tracker/precache-manifest.4e6b89520daff5cbf78e41ef48ff4214.js",
+    "precache-manifest.c1cc026f5592d871a249653160b3560c.js": "/asteroid-tracker/precache-manifest.c1cc026f5592d871a249653160b3560c.js",
     "service-worker.js": "/asteroid-tracker/service-worker.js",
-    "static/css/main.8c5e0082.chunk.css.map": "/asteroid-tracker/static/css/main.8c5e0082.chunk.css.map",
+    "static/css/main.796a5f9a.chunk.css.map": "/asteroid-tracker/static/css/main.796a5f9a.chunk.css.map",
     "static/js/2.60776af0.chunk.js.LICENSE.txt": "/asteroid-tracker/static/js/2.60776af0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/asteroid-tracker/static/media/logo.5d5d9eef.svg",
     "static/media/App.css": "/asteroid-tracker/static/media/starry-sky1.fe5e7076.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.85118684.js",
     "static/js/2.60776af0.chunk.js",
-    "static/css/main.8c5e0082.chunk.css",
-    "static/js/main.3fe5efd2.chunk.js"
+    "static/css/main.796a5f9a.chunk.css",
+    "static/js/main.7c236301.chunk.js"
   ]
 }
